@@ -23,4 +23,4 @@ You can check out more artworks on my personal website:
 ### Teaching & Workshops
 - [Coding4Language](https://github.com/cqx931/Coding4Language/tree/gh-pages): an undergraduate class that I taught on generative language
 - [Electronics Knowledge Base](https://gist.github.com/cqx931/7dc9ec8ec9634eb18be6154e1f6ed32e)
-- [Intro to Electronics](https://gist.github.com/cqx931/2212d003491a28abbab97fd6f6c5e64d)](https://github.com/cqx931/workshop)
+- [Intro to Electronics](https://gist.github.com/cqx931/2212d003491a28abbab97fd6f6c5e64d)

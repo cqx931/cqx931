@@ -1,7 +1,8 @@
 ## About Me
 
 I am a media artist and researcher. 
-You can check out more artworks on my personal website: [https://chenqianxun.com](https://chenqianxun.com)
+You can check out more artworks on my personal website:   
+[https://chenqianxun.com](https://chenqianxun.com)
 
 ## A Little Guide on my Github Repos
 ### Art Projects

@@ -24,3 +24,4 @@ You can check out more artworks on my personal website:
 ### Others
 - [Matsushita Thermal Printhead Library](https://github.com/cqx931/Matsushita_Thermal_Printer_Library): `C++` A library to print with [Matsushita thermal printhead](https://www.pollin.de/p/matsushita-thermo-druckelement-epl1801s2e-721066)
 - [Chinese Visual Embeddings](https://github.com/cqx931/chineseVisualEmbeddings): `python` Embeddings trained for the Chinese characters
+- [MyTemplate](https://github.com/cqx931/myTemplate): A website/portfolio/presentation/cv (other potential documents?) management system, all generated from markdown files.

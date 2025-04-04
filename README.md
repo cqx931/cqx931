@@ -25,4 +25,4 @@ You can check out more artworks on my personal website:
 ### Others
 - [Chinese Visual Embeddings](https://github.com/cqx931/chineseVisualEmbeddings): `python` Embeddings trained for the Chinese characters
 - [MyTemplate](https://github.com/cqx931/myTemplate): A website/portfolio/presentation/cv (other potential documents?) management system, all generated from markdown files.
-- I helped a friend to make the website for her project:[homecoming](https://xinaliq.netlify.app/)
+- I helped a friend to make the website for her project:[Homecoming](https://xinaliq.netlify.app/)

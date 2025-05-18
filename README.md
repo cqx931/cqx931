@@ -1,6 +1,6 @@
 ## About Me
 
-I am a media artist, educator and researcher. I am currently working as a lecturer at Leuphana University of Lüneburg.
+I am a media artist, researcher and a lecturer at Leuphana University of Lüneburg.
 
 You can check out more artworks on my personal website:   
 [https://chenqianxun.com](https://chenqianxun.com)
